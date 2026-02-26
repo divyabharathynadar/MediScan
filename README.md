@@ -123,4 +123,4 @@ The Streamlit application allows users to:
 ---
 
 
-* By **Divyabharathy Nadar** - [Linkedin](https:https://www.linkedin.com/in/divyabharathy-nadar/) | [Github](https://github.com/divyabharathynadar/)
+## By **Divyabharathy Nadar** - [Linkedin](https://www.linkedin.com/in/divyabharathy-nadar/) | [Github](https://github.com/divyabharathynadar/)
