@@ -2,8 +2,7 @@
 # 🩺 MediScan – Health Ally  
 ## A Deep Learning Tool for Tuberculosis and Eye Disease Prediction
 
-MediScan is a **web-based deep learning healthcare application** designed to support **early, non-invasive disease detection**.  
-It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (VGG19)** to analyze medical images and predict:
+MediScan is a **web-based deep learning healthcare application** designed to support **early, non-invasive disease detection**. It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (VGG19)** to analyze medical images and predict:
 
 - **Tuberculosis (TB)** from Chest X-ray images  
 - **Eye diseases** (Cataract, Glaucoma, Diabetic Retinopathy) from Retinal Fundus images  
