@@ -1,11 +1,13 @@
-
+<img width="1283" height="778" alt="image" src="https://github.com/user-attachments/assets/9ca01233-0e5f-421a-9d62-78415cdc76fc" />
 # 🩺 MediScan – Health Ally  
 ## A Deep Learning Tool for Tuberculosis and Eye Disease Prediction
 
 MediScan is a **web-based deep learning healthcare application** designed to support **early, non-invasive disease detection**. It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (VGG19)** to analyze medical images and predict:
 
 - **Tuberculosis (TB)** from Chest X-ray images  
-- **Eye diseases** (Cataract, Glaucoma, Diabetic Retinopathy) from Retinal Fundus images  
+- **Eye diseases** (Cataract, Glaucoma, Diabetic Retinopathy) from Retinal Fundus images
+
+<img src="https://github.com/divyabharathynadar/MediScan/blob/main/MediScan.png">
 
 This project was developed as part of an **M.Sc. Bioinformatics Master’s Thesis (2022–2024)**. It was developed using publicly available Kaggle datasets, consisting of approximately **3,500 chest X-ray images** for Tuberculosis detection and around **4,500 retinal fundus images** for eye disease classification, resulting in a total of **~8,000 medical images** before augmentation.
 
